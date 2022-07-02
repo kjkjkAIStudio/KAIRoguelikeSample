@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+CRC: 2651692996
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b8ed0a8c80289ed82000cb88b23f2be8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 213761a7c4dbec55607af862801deade
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 50
+  Script: {instanceID: 0}
+- Class: 58
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/KAI/AB/enemy/enemy.png
+- Assets/KAI/AB/enemy/enemy_0/enemy_0.overrideController
+- Assets/KAI/AB/enemy/enemy_2/move.anim
+- Assets/KAI/AB/enemy/enemy_2/enemy_2.prefab
+- Assets/KAI/AB/enemy/enemy_0/enemy_0.prefab
+- Assets/KAI/AB/enemy/enemy_1/enemy_1.overrideController
+- Assets/KAI/AB/enemy/enemy_1/move.anim
+- Assets/KAI/AB/enemy/enemy_2/enemy_2.overrideController
+- Assets/KAI/AB/enemy/enemy_1/enemy_1.prefab
+- Assets/KAI/AB/enemy/enemy_0/move.anim
+Dependencies: []

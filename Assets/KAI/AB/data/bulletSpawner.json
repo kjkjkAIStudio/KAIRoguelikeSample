@@ -1,0 +1,140 @@
+{
+	"array":
+	[
+		{
+			"name": "assultRifle",
+			"timeLine":
+			[
+				{
+					"time": 0,
+					"bullet": "assultRifle",
+					"count": 1,
+					"rot": 0,
+					"deltaRot": 0,
+					"rndRot": true,
+					"rndRotMin": -15,
+					"rndRotMax": 15,
+					"aimPlayer": false
+				}
+			]
+		},
+		{
+			"name": "rifle",
+			"timeLine":
+			[
+				{
+					"time": 0,
+					"bullet": "rifle",
+					"count": 1,
+					"rot": 0,
+					"deltaRot": 0,
+					"rndRot": true,
+					"rndRotMin": -1,
+					"rndRotMax": 1,
+					"aimPlayer": false
+				}
+			]
+		},
+		{
+			"name": "machineGun",
+			"timeLine":
+			[
+				{
+					"time": 0,
+					"bullet": "machineGun",
+					"count": 1,
+					"rot": 0,
+					"deltaRot": 0,
+					"rndRot": true,
+					"rndRotMin": -5,
+					"rndRotMax": 5,
+					"aimPlayer": false
+				}
+			]
+		},
+		{
+			"name": "explotion",
+			"timeLine":
+			[
+				{
+					"time": 5,
+					"bullet": "explotion",
+					"count": 10,
+					"rot": 0,
+					"deltaRot": 0,
+					"rndRot": true,
+					"rndRotMin": 0,
+					"rndRotMax": 360,
+					"aimPlayer": false
+				}
+			]
+		},
+		{
+			"name": "aim3",
+			"timeLine":
+			[
+				{
+					"time": 0.5,
+					"bullet": "forward",
+					"count": 3,
+					"rot": -15,
+					"deltaRot": 15,
+					"rndRot": false,
+					"rndRotMin": 0,
+					"rndRotMax": 0,
+					"aimPlayer": true
+				},
+				{
+					"time": 0.5,
+					"bullet": "forward",
+					"count": 3,
+					"rot": -15,
+					"deltaRot": 15,
+					"rndRot": false,
+					"rndRotMin": 0,
+					"rndRotMax": 0,
+					"aimPlayer": true
+				},
+				{
+					"time": 5,
+					"bullet": "forwardAndAim",
+					"count": 8,
+					"rot": 0,
+					"deltaRot": 45,
+					"rndRot": false,
+					"rndRotMin": 0,
+					"rndRotMax": 0,
+					"aimPlayer": false
+				}
+			]
+		},
+		{
+			"name": "circleCross",
+			"timeLine":
+			[
+				{
+					"time": 0,
+					"bullet": "forwardAndRotLeft",
+					"count": 8,
+					"rot": 0,
+					"deltaRot": 45,
+					"rndRot": false,
+					"rndRotMin": 0,
+					"rndRotMax": 0,
+					"aimPlayer": false
+				},
+				{
+					"time": 10,
+					"bullet": "forwardAndRotRight",
+					"count": 8,
+					"rot": 0,
+					"deltaRot": 45,
+					"rndRot": false,
+					"rndRotMin": 0,
+					"rndRotMax": 0,
+					"aimPlayer": false
+				}
+			]
+		}
+	]
+}

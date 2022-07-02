@@ -1,0 +1,20 @@
+{
+	"array":
+	[
+		{
+			"name": "assultRifle",
+			"bulletSpawner": "assultRifle",
+			"cd": 0.1
+		},
+		{
+			"name": "rifle",
+			"bulletSpawner": "rifle",
+			"cd": 1
+		},
+		{
+			"name": "machineGun",
+			"bulletSpawner": "machineGun",
+			"cd": 0.01
+		}
+	]
+}

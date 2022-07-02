@@ -1,0 +1,23 @@
+{
+	"array":
+	[
+		{
+			"name": "enemy_0",
+			"maxHP": 30,
+			"speed": 6,
+			"bulletSpawner": "explotion"
+		},
+		{
+			"name": "enemy_1",
+			"maxHP": 100,
+			"speed": 4,
+			"bulletSpawner": "circleCross"
+		},
+		{
+			"name": "enemy_2",
+			"maxHP": 200,
+			"speed": 3,
+			"bulletSpawner": "aim3"
+		}
+	]
+}

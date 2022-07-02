@@ -1,0 +1,14 @@
+{
+	"array":
+	[
+		{
+			"name": "char_0",
+			"maxHP": 1000,
+			"speed": 5,
+			"startWeapon":
+			[
+				"assultRifle", "rifle", "machineGun"
+			]
+		}
+	]
+}

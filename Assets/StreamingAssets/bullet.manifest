@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 2119673665
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c55b2579210815e4e4953cab77ea31d2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f267fd2d8bcb1179236b6179ac5313bc
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/KAI/AB/bullet/bulletEnemy.png
+- Assets/KAI/AB/bullet/bulletPlayer.png
+- Assets/KAI/AB/bullet/bulletHit.png
+Dependencies: []

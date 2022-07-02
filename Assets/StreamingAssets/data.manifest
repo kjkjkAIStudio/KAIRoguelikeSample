@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 3141202236
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dc3296b78d5914c0679c85a9b9fd542f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/KAI/AB/data/enemy.json
+- Assets/KAI/AB/data/bullet.json
+- Assets/KAI/AB/data/weapon.json
+- Assets/KAI/AB/data/char.json
+- Assets/KAI/AB/data/bulletSpawner.json
+Dependencies: []
